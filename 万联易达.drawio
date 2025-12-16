@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5yd1ikWzunuVyqP71wa_-1" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;`company_entry_type` varchar(5) COLLATE utf8mb4_general_ci NOT NULL DEFAULT &#39;&#39; COMMENT &#39;企业入驻类型[50-供应商,60-医院（盈利）,70-医院（非盈利）,80-厂商/品牌方]&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="510" x="30" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
